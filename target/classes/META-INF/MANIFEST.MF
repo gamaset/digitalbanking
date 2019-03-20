@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: digitalbank
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: christopherscotini
+Implementation-Vendor-Id: com.gamaset
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/digitalbank
+Created-By: Maven Integration for Eclipse
+

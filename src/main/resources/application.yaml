@@ -1,0 +1,10 @@
+# Informação da aplicação
+info:
+  component: 'API Banco Digital'
+  build:
+    version: '@project.version@'
+    name: '@project.name@'
+spring:
+  profiles: default
+  application:
+    name: digitalbank
